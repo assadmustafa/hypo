@@ -20,7 +20,7 @@ De Hypo app is een eenvoudige tool waarmee gebruikers kunnen berekenen wat het m
 
 1. Kloon de repository naar uw lokale machine:
 
-   ## `git clone https://github.com/gebruikersnaam/max-mortgage-calculator.git`
+   git clone https://github.com/gebruikersnaam/max-mortgage-calculator.git
 
 2. Navigeer naar de projectmap:
 
